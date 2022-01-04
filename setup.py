@@ -8,7 +8,7 @@ with open('README.md') as f:
 
 setup(
     name='SafeEmbeds',
-    version='0.1dev',
+    version='0.2dev',
     author='Kelwing',
     packages=['safeembeds',],
     license='GPLv3',
